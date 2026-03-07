@@ -1,2 +1,2 @@
 - Studying and experimenting on machine learning models and different data types in order to understand ml-s, nn-s.
-- Datasets are not uploaded, information/links will attached in the notebooks.
+- Datasets are not uploaded, information/links will be attached in the notebooks.
